@@ -1,0 +1,4 @@
+# No external dependencies required — uses the Python standard library only.
+# IstatFoiLoader uses urllib from the stdlib; install requests only if you
+# prefer to swap it in yourself.
+# requests>=2.31
